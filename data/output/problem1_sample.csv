@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/09 15:58:53 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
+17/06/08 10:16:24 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 26621,INFO
+17/06/10 15:06:11 INFO executor.Executor: Finished task 11.0 in stage 21.0 (TID 431). 2121 bytes result sent to driver,INFO
+17/02/01 23:09:40 INFO storage.ShuffleBlockFetcherIterator: Started 4 remote fetches in 1 ms,INFO
+17/06/07 15:49:35 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 11199,INFO
+17/06/06 21:39:17 INFO executor.Executor: Finished task 35.0 in stage 37.0 (TID 1512). 2667 bytes result sent to driver,INFO
+17/06/09 20:42:49 INFO storage.BlockManager: Found block rdd_1531_30 locally,INFO
+"17/06/08 20:44:39 INFO spark.CacheManager: Partition rdd_19239_14 not found, computing it",INFO
+17/06/08 13:59:58 INFO storage.BlockManager: Found block rdd_2381_11 locally,INFO
+"17/02/01 18:48:51 INFO python.PythonRunner: Times: total = 73, boot = -141, init = 162, finish = 52",INFO
